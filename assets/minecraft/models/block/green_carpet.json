@@ -1,0 +1,6 @@
+{
+  "parent": "custom:block/carpet_base",
+  "textures": {
+    "carpet": "custom:block/green_carpet"
+  }
+}
